@@ -11,7 +11,7 @@ function Home() {
   return (
     <div className="home-container">
       <div className="home-main-container">
-        <div className="title">Do you like me?</div>
+        <div className="title">Do you love me?</div>
         <div className="content">
           <img alt="logo" height="250px" width="250px" src={currentImage} />
           <div className="message-container">{messageContent}</div>

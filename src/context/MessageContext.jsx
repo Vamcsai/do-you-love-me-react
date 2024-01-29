@@ -23,7 +23,7 @@ export default function MessageContextProvider({ children }) {
         setMessageContent("Asking for last time...");
         break;
       case "yes":
-        setMessageContent("I like you too");
+        setMessageContent("I love you too");
         break;
       case "no":
         setMessageContent("I hate you too");
