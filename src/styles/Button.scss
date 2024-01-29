@@ -1,0 +1,28 @@
+.button {
+  height: 85px;
+  width: 120px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button-style {
+  height: 45px;
+  width: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #03e9f4;
+  font-size: 20px;
+  text-decoration: none;
+  background: #141e30;
+  border-radius: 10px;
+  font-weight: bold;
+  box-shadow: 0 0 2px #03e9f4;
+}
+
+.button-style:hover {
+  background: linear-gradient(#141e30, #243b55);
+  color: #fff;
+  cursor: pointer;
+}

@@ -1,0 +1,36 @@
+.home-container {
+  width: 100vw;
+  height: 100vh;
+  background: linear-gradient(#141e30, #243b55);
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.home-main-container {
+  height: 80%;
+  width: 80%;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+
+  .title {
+    font-size: 32px;
+    color: white;
+    font-weight: bold;
+  }
+  .content {
+    .message-container {
+      height: 24px;
+      color: #03e9f4;
+      font-size: 24px;
+      text-align: center;
+    }
+  }
+  .button-container {
+    margin-top: 10px;
+    width: 240px;
+    display: flex;
+  }
+}
