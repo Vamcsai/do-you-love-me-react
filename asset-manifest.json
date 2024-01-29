@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/do-you-love-me-react/static/css/main.bb727689.css",
-    "main.js": "/do-you-love-me-react/static/js/main.d55d30e6.js",
+    "main.js": "/do-you-love-me-react/static/js/main.41064246.js",
     "static/media/question.gif": "/do-you-love-me-react/static/media/question.c6a40b9198da52ee3ef9.gif",
     "static/media/please3.gif": "/do-you-love-me-react/static/media/please3.e44e08b642d706ae206c.gif",
     "static/media/please1.gif": "/do-you-love-me-react/static/media/please1.aa6fe9751c7031748283.gif",
@@ -12,10 +12,10 @@
     "static/media/yes.gif": "/do-you-love-me-react/static/media/yes.60cfe3760759318ddd46.gif",
     "index.html": "/do-you-love-me-react/index.html",
     "main.bb727689.css.map": "/do-you-love-me-react/static/css/main.bb727689.css.map",
-    "main.d55d30e6.js.map": "/do-you-love-me-react/static/js/main.d55d30e6.js.map"
+    "main.41064246.js.map": "/do-you-love-me-react/static/js/main.41064246.js.map"
   },
   "entrypoints": [
     "static/css/main.bb727689.css",
-    "static/js/main.d55d30e6.js"
+    "static/js/main.41064246.js"
   ]
 }
